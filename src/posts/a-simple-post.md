@@ -7,4 +7,4 @@ tags:
 - blog
 
 ---
-Thats new content.
+Thats new content. Another Content.
